@@ -1,8 +1,8 @@
 +++
-title = "About"
+title = "Über WiDaA"
 date = "2014-04-09"
 sidemenu = "true"
-description = "About me and this site"
+description = "Über WiDaA und diese Seite"
 +++
 
 Hugo is a static site engine written in Go.

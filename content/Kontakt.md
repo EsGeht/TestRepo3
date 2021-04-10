@@ -1,8 +1,8 @@
 +++
-title = "Contact"
+title = "Kontakt"
 date = "2014-04-09"
 sidemenu = "true"
-description = "How to contact me"
+description = "So können Sie WiDaA kontaktieren."
 +++
 
 <form class="pure-form pure-form-stacked">
