@@ -6,6 +6,7 @@ author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [indexes]
   tag = "tags"
@@ -46,6 +47,10 @@ paginate = 10
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
+  # [[menu.main]]
+    # name = "CV"
+    # url = "/vitae/"
+    # weight = 5
 
 [social]
   # Link your social networking accouns to the side menu
